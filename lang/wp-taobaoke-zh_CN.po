@@ -1,0 +1,228 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Simon Fan
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-taobaoke\n"
+"POT-Creation-Date: 2009-09-08 00:59+0000\n"
+"PO-Revision-Date: 2009-09-08 15:15+0800\n"
+"Last-Translator: sf <8868@52.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: taobaoke-library.php:8
+msgid "1heart"
+msgstr "1心"
+
+#: taobaoke-library.php:8
+msgid "2heart"
+msgstr "2心"
+
+#: taobaoke-library.php:8
+msgid "3heart"
+msgstr "3心"
+
+#: taobaoke-library.php:8
+msgid "4heart"
+msgstr "4心"
+
+#: taobaoke-library.php:8
+msgid "5heart"
+msgstr "5心"
+
+#: taobaoke-library.php:9
+msgid "1diamond"
+msgstr "1钻"
+
+#: taobaoke-library.php:9
+msgid "2diamond"
+msgstr "2钻"
+
+#: taobaoke-library.php:9
+msgid "3diamond"
+msgstr "3钻"
+
+#: taobaoke-library.php:9
+msgid "4diamond"
+msgstr "4钻"
+
+#: taobaoke-library.php:9
+msgid "5diamond"
+msgstr "5钻"
+
+#: taobaoke-library.php:10
+msgid "1crown"
+msgstr "1冠"
+
+#: taobaoke-library.php:10
+msgid "2crown"
+msgstr "2冠"
+
+#: taobaoke-library.php:10
+msgid "3crown"
+msgstr "3冠"
+
+#: taobaoke-library.php:10
+msgid "4crown"
+msgstr "4冠"
+
+#: taobaoke-library.php:10
+msgid "5crown"
+msgstr "5冠"
+
+#: taobaoke-library.php:11
+msgid "1goldencrown"
+msgstr "1皇冠"
+
+#: taobaoke-library.php:11
+msgid "2goldencrown"
+msgstr "2皇冠"
+
+#: taobaoke-library.php:11
+msgid "3goldencrown"
+msgstr "3皇冠"
+
+#: taobaoke-library.php:11
+msgid "4goldencrown"
+msgstr "4皇冠"
+
+#: taobaoke-library.php:11
+msgid "5goldencrown"
+msgstr "5皇冠"
+
+#: taobaoke-options.php:49
+#: taobaoke-options.php:129
+msgid "TaoBaoKe Options"
+msgstr "淘宝客选项"
+
+#: taobaoke-options.php:54
+msgid "Updated"
+msgstr "更新成功"
+
+#: taobaoke-options.php:59
+msgid "No TaoBaoKe Option Updated"
+msgstr "没有选项被更新"
+
+#: taobaoke-options.php:67
+msgid "UNINSTALL wp-taobaoke"
+msgstr "卸载wp-taobaoke"
+
+#: taobaoke-options.php:75
+#, php-format
+msgid "Setting Key '%s' has been deleted."
+msgstr "设置‘%s’已经被删除。"
+
+#: taobaoke-options.php:79
+#, php-format
+msgid "Error deleting Setting Key '%s'."
+msgstr "删除设置‘%s’出错。"
+
+#: taobaoke-options.php:89
+#, php-format
+msgid "Post Meta Key '%s' has been deleted."
+msgstr "文章MetaKey '%s'已经被删除。"
+
+#: taobaoke-options.php:93
+#, php-format
+msgid "Error deleting Post Meta Key '%s'."
+msgstr "删除文章Meta Key '%s' 出错。"
+
+#: taobaoke-options.php:115
+msgid "Uninstall wp-taobaoke"
+msgstr ""
+
+#: taobaoke-options.php:116
+#, php-format
+msgid "<a href=\"%s\">Click Here</a> To Finish The Uninstallation And wp-taobaoke Will Be Deactivated Automatically."
+msgstr ""
+
+#: taobaoke-options.php:130
+msgid "Basic Options"
+msgstr "基本设置"
+
+#: taobaoke-options.php:131
+msgid "The TaoBaoKe PID is in your TaoBaoKe's account, you should use your PID, otherwise the commision won't work."
+msgstr "淘宝客PID是你申请做淘宝客的时候阿里妈妈给你的唯一ID号，请到你的阿里妈妈账号中查找。"
+
+#: taobaoke-options.php:135
+msgid "TaoBaoKe PID:"
+msgstr "淘宝客PID"
+
+#: taobaoke-options.php:142
+msgid "Advanced Options"
+msgstr "高级选项"
+
+#: taobaoke-options.php:143
+msgid "Choose your criteria for your TaoBaoKe. For \"Commission Price\", \"Product Price Interval\", \"Commission Num Interval\", set to \"0 - 0\" means no limitation. "
+msgstr "设置你的宝宝客广告属性，对于“佣金”，“商品单价”，“累计推广量”默认值为无限制。"
+
+#: taobaoke-options.php:146
+msgid "Product Category:"
+msgstr "产品分类"
+
+#: taobaoke-options.php:149
+msgid "All Categories"
+msgstr "所有分类"
+
+#: taobaoke-options.php:158
+msgid "Commission Rate Interval:"
+msgstr "佣金比率范围"
+
+#: taobaoke-options.php:164
+msgid "Commission Price:"
+msgstr "佣金范围"
+
+#: taobaoke-options.php:166
+#: taobaoke-options.php:188
+msgid "RMB"
+msgstr "元"
+
+#: taobaoke-options.php:170
+msgid "Saler Credit Interval:"
+msgstr "卖家信用范围"
+
+#: taobaoke-options.php:186
+msgid "Product Price Interval:"
+msgstr "商品单价范围"
+
+#: taobaoke-options.php:192
+msgid "Commission Num Interval:"
+msgstr "累计推广量范围"
+
+#: taobaoke-options.php:198
+msgid "Saler Position:"
+msgstr "卖家所在地区"
+
+#: taobaoke-options.php:209
+msgid "Save Changes"
+msgstr "保存设置"
+
+#: wp-taobaoke.php:21
+msgid "TaoBaoKe"
+msgstr ""
+
+#. Plugin Name of an extension
+msgid "WP-TaoBaoKe"
+msgstr ""
+
+#. Plugin URI of an extension
+msgid "http://www.sohao.net/wp-taobaoke"
+msgstr ""
+
+#. Description of an extension
+msgid "wp-taobaoke enables you shows taobaoke promotion products and stores from taobao.com."
+msgstr ""
+
+#. Author of an extension
+msgid "Simon Fan"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://www.sohao.net/"
+msgstr ""
+

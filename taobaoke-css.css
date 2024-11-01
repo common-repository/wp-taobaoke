@@ -1,0 +1,81 @@
+/*
++----------------------------------------------------------------+
+|													   			|
+|	WordPress 2.8 Plugin: WP-TaoBaoKe 1.0	    			|
+|	Copyright (c) 2009 Boning Fan									|
+|																							|
+|	File Written By:																	|
+|	- Boning Fan															|
+|	- http://sohao.net															|
+|																							|
+|	File Information:																	|
+|	- TaoBaoKe CSS Style													|
+|	- wp-content/plugins/wp-taobaoke/taobaoke-css.css					|
+|																							|
++----------------------------------------------------------------+
+*/
+
+.wp-taobaoke a, .wp-taobaoke a:link {
+	padding: 2px 4px 2px 4px; 
+	margin: 2px;
+	text-decoration: none;
+	border: 1px solid #0066cc;
+	color: #0066cc;
+	background-color: #FFFFFF;	
+}
+.wp-taobaoke a:visited {
+	padding: 2px 4px 2px 4px; 
+	margin: 2px;
+	text-decoration: none;
+	border: 1px solid #0066cc;
+	color: #0066cc;
+	background-color: #FFFFFF;	
+}
+.wp-taobaoke a:hover {	
+	border: 1px solid #000000;
+	color: #000000;
+	background-color: #FFFFFF;
+}
+.wp-taobaoke a:active {
+	padding: 2px 4px 2px 4px; 
+	margin: 2px;
+	text-decoration: none;
+	border: 1px solid #0066cc;
+	color: #0066cc;
+	background-color: #FFFFFF;	
+}
+
+.tbk-style-box {
+width:250px;
+height:250px;
+font-size:14px;
+font-weight:bold;
+text-align:center;
+border:1px solid #cccddd;
+background:#fff;
+color:#123888;
+}
+
+.tbk-style-title {
+font-weight:bold;
+font-size:15px;
+padding: 4px 0px 2px;
+}
+.tbk-style-image {
+margin-top:10px;
+}
+.tbk-style-image img {
+width:200px;
+height:200px;
+}
+.tbk-style-price {
+font-weight:bold;
+font-size:15px;
+background:darkred;
+margin-top:10px;
+height:20px;
+line-height:20px;
+color:#fff;
+padding:2px 0px;
+}
+
